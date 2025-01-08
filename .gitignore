@@ -1,0 +1,15 @@
+node_modules
+dist
+index.js
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+
+# Local env files
+.env
+.env.*
+!.env.example
